@@ -1,0 +1,13 @@
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\bin\Debug\BS_Kitabevi.exe.config
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\bin\Debug\BS_Kitabevi.exe
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\bin\Debug\BS_Kitabevi.pdb
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\bin\Debug\EntityFramework.dll
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\bin\Debug\EntityFramework.SqlServer.dll
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\bin\Debug\EntityFramework.xml
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\bin\Debug\EntityFramework.SqlServer.xml
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\obj\Debug\BS_Kitabevi.csproj.AssemblyReference.cache
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\obj\Debug\BS_Kitabevi.csproj.SuggestedBindingRedirects.cache
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\obj\Debug\BS_Kitabevi.csproj.CoreCompileInputs.cache
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\obj\Debug\BS_Kitabevi.csproj.CopyComplete
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\obj\Debug\BS_Kitabevi.exe
+D:\BS_proje\BS_Kitabevi\BS_Kitabevi\obj\Debug\BS_Kitabevi.pdb
